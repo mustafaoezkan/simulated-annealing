@@ -30,7 +30,7 @@ Run the app
   npm run start
 ```
 
-## Screenshoot
+## Screenshot
 
 ![App Screenshot](https://i.hizliresim.com/ga6w705.png)
   
