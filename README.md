@@ -30,6 +30,9 @@ Run the app
   npm run start
 ```
 
+## Screenshoot
+
+![App Screenshot](https://i.hizliresim.com/ga6w705.png)
   
 ## License
 
