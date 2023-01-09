@@ -1,7 +1,7 @@
 
-# Implementation of Simulated Annealing Algorithm in JavaScript
+# Implementation of Simulated Annealing Algorithm in TypeScript
 
-Coding the Simulated Annealing Algorithm that I saw in the Optimization Algorithms course in JavaScript (React.js) environment.
+Coding the Simulated Annealing Algorithm that I saw in the Optimization Algorithms course in TypeScript (React.js) environment.
 
 
 ## Project setup
